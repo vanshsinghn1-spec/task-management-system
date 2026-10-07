@@ -1,6 +1,9 @@
 # TaskFlow — Full-Stack Task Management System
 
-A high-performance, full-stack task management application engineered for the **Full-Stack Developer Internship Assignment**. Built with a robust **Node.js/Express 3-Tier REST API** (with in-memory persistence) and a modern **React + Vite** frontend styled with **shadcn/ui, Magic UI, and Aceternity UI** design principles.
+> 🌐 **Live Demo:** [https://task-management-system-mu-drab.vercel.app/](https://task-management-system-mu-drab.vercel.app/)  
+> 📦 **GitHub Repository:** [https://github.com/vanshsinghn1-spec/task-management-system](https://github.com/vanshsinghn1-spec/task-management-system)
+
+A high-performance, full-stack task management application engineered for the **Full-Stack Developer Internship Assignment**. Built with a robust **Node.js/Express 3-Tier REST API** (with in-memory persistence) and a modern **React + Vite** frontend.
 
 ---
 
